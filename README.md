@@ -1,2 +1,2 @@
-# muskatos
-An operating system written mainly in python.
+# MuskatOS
+Pseudo operating system written in python.
