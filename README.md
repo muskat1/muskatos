@@ -1,2 +1,2 @@
 # MuskatOS
-Pseudo operating system written in python.
+An open-source operating system written FULLY in python.
