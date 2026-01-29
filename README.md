@@ -5,7 +5,7 @@ MuskatOS is a Unix-like pseudo operating system written fully in **python**. Whe
 - User's programs support
 - Weekly and monthly updates
 # Memu
-Memu is a pseudo computer emulator. MuskatOS uses it to start up. Also in future memu will support another pseudo OS written in python - QuickPyre.
+Memu is a pseudo computer emulator. MuskatOS uses it to start up. Also in future memu will support another pseudo OS written in python - <html><a href="https://github.com/LozkaDani/QuickPyre">QuickPyre</a></html>.
 # Installation guide
 To install MuskatOS you must follow these steps:
 - Clone repository using ```git clone```
